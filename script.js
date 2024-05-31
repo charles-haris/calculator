@@ -1,7 +1,7 @@
 function appendToDisplay(value) {
     document.getElementById('display').value += value;
 }
-
+//this function grants to clean everything that has written
 function clearDisplay() {
     document.getElementById('display').value = '';
 }
