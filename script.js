@@ -1,3 +1,4 @@
+//this function grants to write the first number, the operator and the second number
 function appendToDisplay(value) {
     document.getElementById('display').value += value;
 }
